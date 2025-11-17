@@ -1,9 +1,9 @@
 class DecksterAiPlugin < Formula
   desc "Deckster AI Plugin Update"
   homepage "https://github.com/bcg-updates/"
-  url "https://github.com/bcg-updates/homebrew-deckster-ai/releases/download/v1.3/deckster-ai-plugin-1.3.tar.gz"
-  sha256 "54ca25bde417c559b2ed75a2038953a53c7bba70ab46cd31df0b067bfbd035cf"
-  version "1.3"
+  url "https://github.com/bcg-updates/homebrew-deckster-ai/releases/download/v2.1/deckster-ai-plugin-2.1.tar.gz"
+  sha256 "cf26b010ac648aedcbad7dc96d5039a660ea72cc43146708d39aec015367b418"
+  version "2.1"
   depends_on "python@3.12"
 
   def install
